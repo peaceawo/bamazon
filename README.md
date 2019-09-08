@@ -26,6 +26,10 @@ However, if your store does have enough of the product, it will fulfill the cust
 - View Low Inventory
 - Add to Inventory
 - Add New Product
+
+<img width="320" alt="Screen Shot 2019-09-08 at 1 04 24 PM" src="https://user-images.githubusercontent.com/51039590/64493223-99190280-d23a-11e9-878d-013531db1cb4.png">
+
+
 - If a manager selects View Products for Sale, the app should list every available item: the item IDs, names, prices, and quantities.
 - If a manager selects View Low Inventory, then it should list all items with an inventory count lower than five.
 - If a manager selects Add to Inventory, your app should display a prompt that will let the manager "add more" of any item currently in the store.
