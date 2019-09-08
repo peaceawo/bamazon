@@ -1,6 +1,6 @@
 # bamazon
 
-This application is identical to an Amazon-like storefront with the MySQL. The app will take in orders from customers and deplete stock from the store's inventory. It include three major aspeccts:
+This application is identical to an Amazon-like storefront with MySQL database. The app will take in orders from customers and deplete stock from the store's inventory. It include two major aspeccts:
 
 ### Customer View
 
