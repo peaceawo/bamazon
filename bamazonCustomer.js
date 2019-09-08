@@ -89,7 +89,8 @@ function updateData(customerChoice, item, quantity) {
     item;
   connection.query(update, function(err, results) {
     if (err) throw err;
-    console.log(`Order Total $${customerChoice.price * quantity}`);
+    var total = customerChoice.price * quantity;
+    console.log(`Order Total $${total.toFixed(2)}`);
     console.log("------------------------------------------");
   });
   //display();
