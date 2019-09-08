@@ -17,6 +17,8 @@ However, if your store does have enough of the product, it will fulfill the cust
 
 - Once the update goes through, the total cost of their purchase is displayed to the customer
 
+<img width="456" alt="Screen Shot 2019-09-08 at 1 02 36 PM" src="https://user-images.githubusercontent.com/51039590/64493209-71c23580-d23a-11e9-970a-a935c60ae300.png">
+
 ### Manager View
 
 - List a set of menu options:
